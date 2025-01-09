@@ -6,6 +6,8 @@
 
 Walkei est un projet créé par ek_BD_, alias Eikei. Ce script permet d'accéder facilement aux clés publiques et privées des comptes de cryptomonnaie. Chaque clé publique est associée à sa clé privée, et le script intègre une fonctionnalité pour vérifier le solde du compte via l'API EtherScan. 
 
+# YOU NEED TO CREATE A ACCOUNT ON ETHERSCAN AND ENTER YOU API KEY IN THE SCRIPT
+
 ### Caractéristiques
 
 - Génération et gestion des clés publiques et privées
