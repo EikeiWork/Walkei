@@ -1,4 +1,3 @@
-# WalletKei
 
 ### Français
 
